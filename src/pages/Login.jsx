@@ -45,7 +45,7 @@ function Login(props){
     }
 
     return(
-        <div className=" bg-[#1E201E] p-24">
+        <div className=" bg-[#1E201E] p-10">
             <div className="bg-[#EFEFEF] p-10 border rounded-md">
             <h1 className="text-3xl my-1 font-medium">Hey, Hi 👋</h1>
 
