@@ -1,5 +1,7 @@
 Actodo - A React.js Task Management App ✅
-Actodo is a task management app built with React.js that leverages modern React concepts such as components, useState, useEffect, conditional rendering, React Router for page navigation, and more. This app helps users manage their daily tasks with ease and efficiency.
+Actodo is a task management app built with React.js 
+that leverages modern React concepts such as components, useState, useEffect, conditional rendering, React Router for page navigation, and more. 
+This app helps users manage their daily tasks with ease and efficiency.
 
 
 Skills used :
